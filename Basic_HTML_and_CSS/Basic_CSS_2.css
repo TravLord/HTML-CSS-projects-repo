@@ -1,0 +1,11 @@
+ p {
+		background-color :#C0C0C0 ;
+		color :#2F4F4F;
+		text-decoration : underline overline;
+		text-align : center;
+		font-weight: 900;
+		font-size: x-large;
+}
+h1 { 
+		text-shadow : 3px 3px pink;
+}

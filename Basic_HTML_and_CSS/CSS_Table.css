@@ -1,0 +1,21 @@
+table { 
+	border : 2px solid purple;
+}
+td:hover {
+	background-color : lime; 
+	color : yellow ;
+}
+tr, th { 
+	border : 1x solid purple;
+	background-color: light grey;
+	color: dark green;
+}
+tr, td { 
+background-color: teal;
+border : 2x solid blue;
+}
+h1 {
+	text-align : center;
+	color : lime;
+	background-color : blue;
+}	
